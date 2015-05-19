@@ -1,0 +1,12 @@
+{
+    "name": "vluzrmos/badge-poser",
+    "description": "Laravel Badge Generator",
+    "autoload": {
+        "psr-4": {
+            "Vluzrmos\\BadgePoser\\": "src/"
+        }
+    },
+    "require":{
+      "badges/poser": "~1.1"
+    }
+}
