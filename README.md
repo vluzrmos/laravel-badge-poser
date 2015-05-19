@@ -45,6 +45,7 @@ class YourController extends Controller
     return $poser->generate('slogan', 'status', 'FFFFFF', 'flat');
   }
 } 
+```
 
 ## Facade
 
