@@ -40,7 +40,7 @@ Using IoC Container
 ```php
 class YourController extends Controller
 {
-  public functino controllerMethod(\Vluzrmos\BadgePoser\Contracts\Poser $poser)
+  public function controllerMethod(\Vluzrmos\BadgePoser\Contracts\Poser $poser)
   {
     returh $poser->generate('slogan', 'status', 'FFFFFF', 'flat');
   }
