@@ -42,7 +42,7 @@ class YourController extends Controller
 {
   public function controllerMethod(\Vluzrmos\BadgePoser\Contracts\Poser $poser)
   {
-    returh $poser->generate('slogan', 'status', 'FFFFFF', 'flat');
+    return $poser->generate('slogan', 'status', 'FFFFFF', 'flat');
   }
 } 
 
