@@ -1,4 +1,4 @@
-# Laravel and Lumen Badge Poser 
+# Laravel and Lumen Badge Generator 
 
 [![Latest Stable Version](https://poser.pugx.org/vluzrmos/badge-poser/v/stable)](https://packagist.org/packages/vluzrmos/badge-poser) [![Total Downloads](https://poser.pugx.org/vluzrmos/badge-poser/downloads)](https://packagist.org/packages/vluzrmos/badge-poser) [![Latest Unstable Version](https://poser.pugx.org/vluzrmos/badge-poser/v/unstable)](https://packagist.org/packages/vluzrmos/badge-poser) [![License](https://poser.pugx.org/vluzrmos/badge-poser/license)](https://packagist.org/packages/vluzrmos/badge-poser)
 
