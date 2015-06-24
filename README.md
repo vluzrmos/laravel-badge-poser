@@ -50,17 +50,17 @@ class YourController extends Controller
 ## Facade
 
 ```php
-$reponse = Poser::generate('licence', 'MIT', 'FFFFF', 'plastic');
+$response = Poser::generate('licence', 'MIT', 'FFFFF', 'plastic');
 ```
 
 ## API
 
 ```php
-Poser::generate($message, $status, $color, $format);
+$response = Poser::generate($message, $status, $color, $format);
 //where $format is 'flat' or 'plastic'
 
 
-Poser::generateFromURI('license-MIT-blue.svg');
+$response = Poser::generateFromURI('license-MIT-blue.svg');
 ```
 
 # License
