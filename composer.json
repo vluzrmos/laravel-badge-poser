@@ -1,6 +1,6 @@
 {
     "name": "vluzrmos/badge-poser",
-    "description": "Laravel Badge Generator",
+    "description": "Laravel and Lumen Badge Generator",
     "license": "DBAD",
     "keywords": ["Laravel", "Lumen", "Badge", "Poser"],
     "autoload": {
@@ -9,6 +9,7 @@
         }
     },
     "require":{
-      "badges/poser": "~1.1"
+        "illuminate/support": "5.0.*|5.1.*",
+        "badges/poser": "1.1.*"
     }
 }
