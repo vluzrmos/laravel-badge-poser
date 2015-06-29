@@ -66,6 +66,10 @@ $response = Poser::generate($message, $status, $color, $format);
 $response = Poser::generateFromURI('license-MIT-blue.svg');
 ```
 
+## Example
+
+[![Lumen Slackin](http://slack.laravel.com.br/badge.svg)](https://github.com/vluzrmos/lumen-slackin).
+
 # License
 
 DBAD.
