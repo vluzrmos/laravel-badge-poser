@@ -63,7 +63,7 @@ $response = Poser::generate($message, $status, $color, $format);
 //where $format is 'flat' or 'plastic'
 
 
-$response = Poser::generateFromURI('license-MIT-blue.svg');
+$response = Poser::generateFromURI('license-MIT-428F7E.plastic');
 ```
 
 ## Example
