@@ -1,5 +1,7 @@
 # Laravel and Lumen Badge Generator 
 
+[![Join the chat at https://gitter.im/vluzrmos/laravel-badge-poser](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vluzrmos/laravel-badge-poser?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Latest Stable Version](https://poser.pugx.org/vluzrmos/badge-poser/v/stable)](https://packagist.org/packages/vluzrmos/badge-poser) [![Total Downloads](https://poser.pugx.org/vluzrmos/badge-poser/downloads)](https://packagist.org/packages/vluzrmos/badge-poser) [![Latest Unstable Version](https://poser.pugx.org/vluzrmos/badge-poser/v/unstable)](https://packagist.org/packages/vluzrmos/badge-poser) [![License](https://poser.pugx.org/vluzrmos/badge-poser/license)](https://packagist.org/packages/vluzrmos/badge-poser)
 
 That package is a easy wrapper to [Badges/Poser](https://github.com/badges/poser).
