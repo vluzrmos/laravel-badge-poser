@@ -70,7 +70,7 @@ $response = Poser::generateFromURI('license-MIT-428F7E.plastic');
 
 ## Example
 
-[![Lumen Slackin](http://slack.laravel.com.br/badge.svg)](https://github.com/vluzrmos/lumen-slackin).
+[![Lumen Slackin](https://slack.laravel.com.br/badge.svg)](https://github.com/vluzrmos/lumen-slackin).
 
 # License
 
