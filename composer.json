@@ -1,7 +1,6 @@
 {
     "name": "vluzrmos/badge-poser",
     "description": "Laravel and Lumen Badge Generator",
-    "license": "DBAD",
     "keywords": ["Laravel", "Lumen", "Badge", "Poser"],
     "autoload": {
         "psr-4": {
